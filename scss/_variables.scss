@@ -1,9 +1,13 @@
 $primary-color: #50C1E9;
 $secondary-color: #EAEAEA;
+$success-color: #08D9D6;
+$danger-color: #DE3C3C;
 
 $colorThemes: (
   'primary': $primary-color,
   'secondary': $secondary-color,
+  'success': $success-color,
+  'danger': $danger-color,
 );
 
 @each $key,

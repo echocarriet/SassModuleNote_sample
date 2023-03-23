@@ -4,4 +4,12 @@
 
 .secondary-color {
   color: #EAEAEA;
+}
+
+.success-color {
+  color: #08D9D6;
+}
+
+.danger-color {
+  color: #DE3C3C;
 }/*# sourceMappingURL=SassModuleNote_sample.css.map */
