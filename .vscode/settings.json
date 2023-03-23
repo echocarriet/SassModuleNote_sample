@@ -1,0 +1,17 @@
+{
+  // ----- 工作區 settings.json
+  "liveSassCompile.settings.formats": [
+    // This is Default. 為展開的形式
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/dist/css"
+    },
+    // You can add more 為壓縮的形式
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/dist/css"
+    },
+  ]
+}

@@ -1,0 +1,14 @@
+$primary-color: #50C1E9;
+$secondary-color: #EAEAEA;
+
+$colorThemes: (
+  'primary': $primary-color,
+  'secondary': $secondary-color,
+);
+
+@each $key,
+$value in $colorThemes {
+  .#{$key}-color {
+    color: $value;
+  }
+}
