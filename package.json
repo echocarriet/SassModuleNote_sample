@@ -1,6 +1,6 @@
 {
   "name": "sassmodulenote_sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass 模組化設計筆記的範本",
   "main": "index.js",
   "scripts": {
